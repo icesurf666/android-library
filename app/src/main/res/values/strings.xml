@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="title_activity_master">Master</string>
+    <string name="title_activity_detail">Detail</string>
+</resources>
